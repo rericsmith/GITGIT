@@ -15,7 +15,7 @@ git clone https://github.com/chandlerfarmer/Raspberry-Pi-Smart-Assistant.git
 ```
 ### 2. Navigate to the Project Directory
 ``` bash
-cd Raspberry-Pi-Smart-Assistant
+cd gitgit
 ```
 ### 3. Check if Python is installed
 By default most Debian-based systems have Python installed. Run the command to ensure it's installed:
